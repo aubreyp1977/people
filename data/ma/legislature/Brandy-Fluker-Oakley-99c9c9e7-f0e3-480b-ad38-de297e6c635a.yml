@@ -15,11 +15,10 @@ roles:
   district: 12th Suffolk
 offices:
 - classification: capitol
-  address: Room 136, State House 24 Beacon St., Boston, MA 02133
-  voice: 617-722-2396
+  address: Room 236, State House 24 Beacon St., Boston, MA 02133
+  voice: 617-722-2430
 links:
 - url: https://malegislature.gov/Legislators/Profile/BFO1
-- url: https://malegislature.gov/Legislators/Profile/BFR1
 other_names:
 - name: B. Fluker Oakley
 - name: B. Fluker-Reid
@@ -36,7 +35,6 @@ sources:
 - url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
 - url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/BFO1
 - url: https://malegislature.gov/Legislators/Profile/BFO1
-- url: https://malegislature.gov/Legislators/Profile/BFR1
 - url: https://www.linkedin.com/in/brandy-fluker-oakley
 extras:
   member code: BFO1

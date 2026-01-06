@@ -4,6 +4,7 @@ given_name: Dan
 family_name: Gaiewski
 gender: Male
 email: daniel.gaiewski@cga.ct.gov
+image: https://img.legistorm.com/people/423/175423.jpg?rand=75932
 party:
 - name: Democratic
 roles:
@@ -21,7 +22,7 @@ other_names:
 - name: D. Gaiewski
 - name: D.D. Gaiewski
 - name: Gaiewski, D.
-- name: Daniel Gaiewski
+other_identifiers: []
 sources:
 - url: https://ballotpedia.org/Dan_Gaiewski
 - url: https://justfacts.votesmart.org/candidate/biography/220934/dan-gaiewski

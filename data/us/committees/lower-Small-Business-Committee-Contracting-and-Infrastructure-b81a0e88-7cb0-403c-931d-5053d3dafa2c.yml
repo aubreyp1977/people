@@ -3,11 +3,8 @@ jurisdiction: ocd-jurisdiction/country:us/government
 classification: subcommittee
 name: Small Business Committee Contracting and Infrastructure
 chamber: lower
-sources:
-- url: https://smallbusiness.house.gov/subcommittees/subcommittee/default.aspx?SubcommitteeID=71810
+sources: []
 parent: ocd-organization/d8493969-3cc2-560c-81f6-b2093487656d
-links:
-- url: https://smallbusiness.house.gov/subcommittees/subcommittee/default.aspx?SubcommitteeID=71810
 members:
 - name: Nick LaLota
   role: chair

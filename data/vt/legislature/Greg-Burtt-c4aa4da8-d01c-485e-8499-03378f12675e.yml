@@ -4,7 +4,7 @@ given_name: Greg
 family_name: Burtt
 gender: Male
 email: gburtt@leg.state.vt.us
-image: https://legislature.vermont.gov/Documents/Legislators/Burtt,Greg%20050.jpg
+image: https://gregburtt.com/images/greg-photo.jpeg
 party:
 - name: Republican
 roles:
@@ -25,5 +25,4 @@ other_names:
 sources:
 - url: https://ballotpedia.org/Greg_Burtt
 - url: https://en.wikipedia.org/wiki/Greg_Burtt
-- url: https://justfacts.votesmart.org/candidate/biography/218444/greg-burtt
 - url: https://legislature.vermont.gov/people/single/2026/40406

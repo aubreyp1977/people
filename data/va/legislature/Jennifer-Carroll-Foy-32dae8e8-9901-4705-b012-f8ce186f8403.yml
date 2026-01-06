@@ -15,9 +15,10 @@ roles:
   district: '33'
 offices:
 - classification: capitol
-  address: Room 501, General Assembly Building P.O. Box 396, Richmond, VA 23218
+  address: Room 501, General Assembly Building P. O. Box 396, Richmond, VA 23218
   voice: 804-698-7533
-- classification: district-mail
+  fax: 804-698-7451
+- classification: district
   address: P. O. Box 5002, Woodbridge, VA 22194
 links:
 - url: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S117

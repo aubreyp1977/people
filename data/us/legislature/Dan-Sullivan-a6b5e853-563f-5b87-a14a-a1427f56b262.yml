@@ -21,6 +21,10 @@ roles:
   district: Alaska
 offices:
 - classification: capitol
+  address: 302 Hart Senate Office Building, Washington, DC 20510
+  voice: 202-224-3004
+  fax: 202-224-6501
+- classification: capitol
   address: 706 Hart Senate Office Building, Washington, DC 20510
   voice: 202-224-3004
   fax: 202-224-6501
@@ -39,7 +43,7 @@ offices:
 - classification: district
   address: 800 Glacier Ave. Suite 101, Juneau, AK 99801
   voice: 907-586-7277
-  fax: 907-205-3767
+  fax: 907-586-7201
 - classification: district
   address: 851 E. Westpoint Drive Suite 309, Wasilla, AK 99654
   voice: 907-357-9956

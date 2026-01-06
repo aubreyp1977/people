@@ -14,14 +14,14 @@ roles:
   district: '1'
 offices:
 - classification: capitol
-  address: P.O. Box 1401 411 Legislative Ave., Dover, DE 19901
-  voice: 302-744-4147
+  address: 411 Legislative Ave., Dover, DE 19901
+  voice: 302-744-4286
 links:
 - url: https://senatedems.delaware.gov/members/senate-district-1/
 other_names:
-- name: Cruce, D.
 - name: D. Cruce
-- name: Daniel Cruce
+- name: Cruce, D.
+other_identifiers: []
 sources:
 - url: https://ballotpedia.org/Dan_Cruce
 - url: https://senatedems.delaware.gov/members/senate-district-1

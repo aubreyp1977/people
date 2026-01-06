@@ -2,7 +2,6 @@ id: ocd-person/4877fdac-4a93-4654-ad03-1b3038145c69
 name: Pat Flowers
 given_name: Pat
 family_name: Flowers
-birth_date: 1956-03-02
 gender: Male
 email: pat.flowers@legmt.gov
 party:
@@ -33,13 +32,11 @@ links:
 - url: https://leg.mt.gov/legislator-information/roster/individual/5050
 - url: https://leg.mt.gov/legislator-information/roster/individual/6797
 - url: https://leg.mt.gov/legislator-information/roster/individual/7508
-- url: https://legislators.legmt.gov/#/legislator/101
 - url: https://www.legmt.gov/legislators/1265/
 other_names:
 - name: Flowers, P.
 - name: Flowers, Pat
 - name: P. Flowers
-- name: P.J. Flowers
 sources:
 - url: https://ballotpedia.org/Pat_Flowers
 - url: https://en.wikipedia.org/wiki/Pat_Flowers_(politician)
@@ -48,5 +45,4 @@ sources:
 - url: https://leg.mt.gov/legislator-information/roster/individual/5050
 - url: https://leg.mt.gov/legislator-information/roster/individual/6797
 - url: https://leg.mt.gov/legislator-information/roster/individual/7508
-- url: https://legislators.legmt.gov/#/legislator/101
 - url: https://www.legmt.gov/legislators/1265

@@ -23,6 +23,9 @@ offices:
   voice: 435-823-2727
 - classification: district-mail
   address: P.O. Box 523, Roosevelt, UT 84066
+- classification: home
+  address: UT
+  voice: 435-722-2729
 links:
 - url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414932
   note: finance report
@@ -39,7 +42,6 @@ links:
   note: homepage
 other_names:
 - name: R. Winterton
-- name: R.M. Winterton
 - name: Ronald M. Winterton
 - name: Ronald Winterton
 - name: Winterton, R.

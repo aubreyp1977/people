@@ -9,12 +9,10 @@ image: https://www.kslegislature.org/li/s/images/pics/rep_ruiz_louis_1.jpg
 party:
 - name: Democratic
 roles:
-- start_date: 2013-01-14
-  type: lower
+- type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ks/government
   district: '31'
 links:
-- url: https://www.kslegislature.gov/li/b2025_26/members/rep_ruiz_louis_1/
 - url: https://www.kslegislature.org/li/b2019_20/members/rep_ruiz_louis_1/
 - url: https://www.kslegislature.org/li/b2021_22/members/rep_ruiz_louis_1/
 - url: https://www.kslegislature.org/li/b2023_24/members/rep_ruiz_louis_1/
@@ -31,7 +29,6 @@ sources:
 - url: https://ballotpedia.org/Louis_Ruiz
 - url: https://en.wikipedia.org/wiki/Louis_Ruiz
 - url: https://justfacts.votesmart.org/candidate/biography/34820/louis-ruiz
-- url: https://www.kslegislature.gov/li/b2025_26/members/rep_ruiz_louis_1
 - url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ruiz_louis_1
 - url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ruiz_louis_1/
 - url: https://www.kslegislature.org/li/b2023_24/members/rep_ruiz_louis_1

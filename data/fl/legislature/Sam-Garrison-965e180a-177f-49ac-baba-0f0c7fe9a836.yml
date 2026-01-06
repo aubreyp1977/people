@@ -18,15 +18,14 @@ roles:
   district: '18'
 offices:
 - classification: capitol
-  address: Room 422, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  address: 422 The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5011
 - classification: district
   address: 1835 EW Parkway Suite 18, Fleming Island, FL 32003
-  voice: 904-375-3300
+  voice: 904-278-2062
 links:
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4767&LegislativeTermId=90
   note: member detail page
-- url: https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4767
 - url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4767
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4767
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4767&LegislativeTermId=89
@@ -38,7 +37,6 @@ sources:
 - url: https://justfacts.votesmart.org/candidate/biography/193775/sam-garrison
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4767&LegislativeTermId=90
   note: member detail page
-- url: https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4767
 - url: https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4767
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4767
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4767&LegislativeTermId=89

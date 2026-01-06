@@ -13,13 +13,14 @@ roles:
   district: '11'
 offices:
 - classification: capitol
-  address: "El Capitolio, Avenida Constituci\xF3n P.O. Box 9022228, San Juan, PR 00902"
+  address: P.O. Box 9022228, None
   voice: 787-721-6040
 links:
 - url: https://www.camara.pr.gov/team/elinette-gonzalez-aguayo/
 other_names:
 - name: "E. Gonz\xE1lez Aguayo"
 - name: "Gonz\xE1lez Aguayo, E."
+other_identifiers: []
 sources:
 - url: https://ballotpedia.org/Elinette_Gonz%C3%A1lez_Aguayo
 - url: https://www.camara.pr.gov/team/elinette-gonzalez-aguayo
